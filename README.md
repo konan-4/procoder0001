@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 👋 Hello everyone ! 
 <br><br>
-I am a Full-Stack developer with a creative eye and passion for creating seamless user experiences.😄<br>
-💻 My GitHub profile is a showcase of my feature-rich and optimized projects that leverage the power of Frontend, Backend, and Database.
+I am a Full-Stack & Blockchain developer with a creative eye and passion for creating seamless user experiences.😄<br>
+💻 My GitHub profile is a showcase of my feature-rich and optimized projects that leverage the power of Frontend, Backend, Database and so on.
 🚀 From interactive Frontend to powerful Backend APIs, I love the Full-Stack of Software development.
 <br><br>
 I enjoy taking on challenges and collaborating with other developers to solve complex problems. My code is optimized, maintainable, and follows best practices, ensuring a scalable and efficient solution. 🌟
